@@ -1,0 +1,7 @@
+main: me.r5t0neer.mp.vs.VirtualServersPlugin
+name: VirtualServers
+version: 0.5
+api-version: 1.16
+author: r5t0neer
+load: POSTWORLD
+depend: [Multiverse-Core]
